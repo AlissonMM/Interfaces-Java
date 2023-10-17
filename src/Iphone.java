@@ -16,7 +16,7 @@ public class Iphone implements AparelhoTelefonico, NavegadorInternet, Reprodutor
 
     @Override
     public void exibirPagina(String link) {
-        System.out.println("Exibindo Página");
+        System.out.println("Exibindo Página...");
     }
 
     @Override
